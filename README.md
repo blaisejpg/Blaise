@@ -10,6 +10,8 @@
     <p>Abuja.</p>
     <p>09065053514</p>
     <p>blaisedoosuun@gmail.com</p>
+    <h4 style="color: green;">Project</h4>
+    <p><a href="https://github.com/blaisejpg/Blaise">Single-Page CV - View Project</a></p>
     <h4 style="color: green;">Skills</h4>
     <ul>
       <li>HTML</li>
@@ -49,4 +51,4 @@ FUTMINNA | February 2026 – Present</b></p>
 <h4 style="color: green;">Across the Internet</h4>
 <p><b>Github: </b><a href="https://github.com/blaisejpg">blaisejpg</a></p>
   </html>
-</html># Blaise
+</html>
