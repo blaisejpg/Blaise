@@ -10,8 +10,6 @@
     <p>Abuja.</p>
     <p>09065053514</p>
     <p>blaisedoosuun@gmail.com</p>
-    <h4 style="color: green;">Project</h4>
-    <p><a href="https://github.com/blaisejpg/Blaise">Single-Page CV - View Project</a></p>
     <h4 style="color: green;">Skills</h4>
     <ul>
       <li>HTML</li>
